@@ -1,0 +1,1388 @@
+﻿
+"EncryptionKey.Description" = "Fuck";
+"EncryptionKey.EncryptionKey" = "Fuck";
+
+
+"Typing.Typing" = "Fuck";
+"Typing.AreTyping" = "Fuck";
+"Typing.IsTyping" = "Fuck";
+"Group.MembersCount" = "Fuck";
+"Group.OnlineCount" = "Fuck";
+"Typing.PeopleTyping" = "Fuck";
+"Group.AddMembers" = "Fuck";
+
+
+"App.Name" = "Fuck";
+"App.Connecting" = "Fuck";
+"App.WaitingNetwork" = "Fuck";
+
+
+"ChatMedia.Audio" = "Fuck";
+"ChatMedia.Voice" = "Fuck";
+"ChatMedia.Photo" = "Fuck";
+"ChatMedia.Contact" = "Fuck";
+"ChatMedia.Video" = "Fuck";
+"ChatMedia.Location" = "Fuck";
+"ChatMedia.File" = "Fuck";
+"ChatMedia.Unsupported" = "Fuck";
+
+
+
+"User.Unlock" = "Fuck";
+"User.Block" = "Fuck";
+"User.BlockUser" = "Fuck";
+"User.UnlockUser" = "Fuck";
+"User.Blocked" = "Fuck";
+"User.AddToContacts" = "Fuck";
+"User.Deleted" = "Fuck";
+"User.Hidden" = "Fuck";
+
+
+"App.ConnectionError" = "Fuck";
+"App.ConnectionErrorDesc" = "Fuck";
+
+"App.MaxFileSize" = "Fuck";
+
+"Auth.CantLogout" = "Fuck";
+"Auth.CheckConnection" = "Fuck";
+
+"Settings.CantUpdateFolder" = "Fuck";
+"Settings.ChooseAnotherFolder" = "Fuck";
+"Settings.BlockUsers" = "Fuck";
+
+"Cellular" = "Fuck";
+
+"Message.Send.Compressing" = "Fuck";
+
+"Search.Separator.Contact" = "Fuck";
+"Search.Separator.Contacts" = "Fuck";
+
+"Search.Separator.User" = "Fuck";
+"Search.Separator.Users" = "Fuck";
+
+"Search.Separator.Message" = "Fuck";
+"Search.Separator.Messages" = "Fuck";
+
+
+
+
+
+"AccountSettings.ContactsSynced" = "Fuck";
+
+"NewConversation.CreateBroadcast" = "Fuck";
+"NewConversation.CreateGroup" = "Fuck";
+"NewConversation.CreateGroupChat" = "Fuck";
+"NewConversation.CreateSecretChat" = "Fuck";
+"NewConversation.CreatingGroupChat" = "Fuck";
+"NewConversation.CreatingSecretChat" = "Fuck";
+"NewConversation.GroupNamePlaceholder" = "Fuck";
+"NewConversation.AddContact" = "Fuck";
+
+
+
+
+
+"Account.ImportContacts" = "Fuck";
+"Account.Invisible" = "Fuck";
+"Account.Online" = "Fuck";
+"Account.Offline" = "Fuck";
+"Login.InvalidCode" = "Fuck";
+"Login.InvalidCountry" = "Fuck";
+"Login.InvalidPhoneNumber" = "Fuck";
+"Login.Country" = "Fuck";
+"Login.Description" = "Fuck";
+"Login.Label" = "Fuck";
+"Login.GetNewCode" = "Fuck";
+"Login.GetCode" = "Fuck";
+"Login.Error" = "Fuck";
+"Login.ExpiredCode" = "Fuck";
+"Login.SmsCode" = "Fuck";
+"Login.PhonePlaceholder" = "Fuck";
+"Registartion.FirstName" = "Fuck";
+"Registration.DeletePhoto" = "Fuck";
+/* Вставить сюда  (Optional) если влезет. */
+"Registration.LastName" = "Fuck";
+"Registration.PhoneDialed" = "Fuck";
+
+"Registration.ChangePhoto" = "Fuck";
+"Registration.ChooseCountry" = "Fuck";
+"Registration.ChoosePhoto" = "Fuck";
+"Registration.Continue" = "Fuck";
+"Registration.StartMessaging" = "Fuck";
+"Registration.AddPhoto" = "Fuck";
+
+
+
+"SelfDestruction.DisableTimer" = "Fuck";
+"SelfDestruction.SetTimer" = "Fuck";
+"SelfDestruction.SetRandomTimer" = "Fuck";
+
+"Message.Send" = "Fuck";
+"Messages.SharingContact" = "Fuck";
+
+"Messages.SendPlaceholder" = "Fuck";
+
+"Message.File.Download" = "Fuck";
+"Messages.Selected.Forward" = "Fuck";
+"Messages.Selected.Delete" = "Fuck";
+"Message.ForwardedFrom" = "Fuck";
+"message" = "Fuck";
+"messages" = "Fuck";
+"MessageAction.Secret.CreatedSecretChat" = "Fuck";
+"MessageAction.ServiceMessage.ChangedGroupName" = "Fuck";
+"MessageAction.ServiceMessage.RemovedGroupPhoto" = "Fuck";
+"MessageAction.ServiceMessage.ChangedGroupPhoto" = "Fuck";
+"MessageAction.ServiceMessage.InvitedGroup" = "Fuck";
+"MessageAction.ServiceMessage.JoinedGroup" = "Fuck";
+"MessageAction.ServiceMessage.KickedGroup" = "Fuck";
+"MessageAction.ServiceMessage.CreatedChat" ="Fuck";
+"MessageAction.ServiceMessage.LeftGroup" = "Fuck";
+"MessageAction.Secret.CancelledSecretChat" = "Fuck";
+"MessageAction.Service.ChangedGroupName" = "Fuck";
+"MessageAction.Service.RemovedGroupPhoto" = "Fuck";
+"MessageAction.Service.ChangedGroupPhoto" = "Fuck";
+"MessageAction.Service.InvitedGroup" = "Fuck";
+"MessageAction.Service.JoinedGroup" = "Fuck";
+"MessageAction.Service.KickedGroup" = "Fuck";
+"MessageAction.Service.CreatedChat" = "Fuck";
+"MessageAction.Service.LeftGroup" = "Fuck";
+/* Какая-то странная строчка: */
+"MessageAction.Service.LeaveChat" = "Fuck";
+"MessageAction.Secret.WaitingToGetOnline" = "Fuck";
+"MessageAction.Secret.TookScreenshot" = "Fuck";
+"Message.Action.Forwarding" = "Fuck";
+"Messages.UnreadMessages" = "Fuck";
+
+
+
+
+
+"Month.GenApril" = "Fuck";
+"Month.GenAugust" = "Fuck";
+"Month.GenDecember" = "Fuck";
+"Month.GenFebruary" = "Fuck";
+"Month.GenJanuary" = "Fuck";
+"Month.GenJuly" = "Fuck";
+"Month.GenJune" = "Fuck";
+"Month.GenMarch" = "Fuck";
+"Month.GenMay" = "Fuck";
+"Month.GenNovember" = "Fuck";
+"Month.GenOctober" = "Fuck";
+"Month.GenSeptember" = "Fuck";
+"Month.ShortApril" = "Fuck";
+"Month.ShortAugust" = "Fuck";
+"Month.ShortDecember" = "Fuck";
+"Month.ShortFebruary" = "Fuck";
+"Month.ShortJanuary" = "Fuck";
+"Month.ShortJuly" = "Fuck";
+"Month.ShortJune" = "Fuck";
+"Month.ShortMarch" = "Fuck";
+"Month.ShortMay" = "Fuck";
+"Month.ShortNovember" = "Fuck";
+"Month.ShortOctober" = "Fuck";
+"Month.ShortSeptember" = "Fuck";
+
+
+
+"Search.More" = "Fuck";
+
+
+
+
+
+
+
+
+
+"Notification.MessageLifetime1d" = "Fuck";
+"Notification.MessageLifetime1h" = "Fuck";
+"Notification.MessageLifetime1m" = "Fuck";
+"Notification.MessageLifetime1w" = "Fuck";
+"Notification.MessageLifetime2s" = "Fuck";
+"Notification.MessageLifetime5s" = "Fuck";
+"notifications" = "Fuck";
+
+
+"Message.File.Open" = "Fuck";
+
+
+
+
+"Attach.Picture" = "Fuck";
+"Attach.TakePhoto" = "Fuck";
+"Attach.Video" = "Fuck";
+"Attach.File" = "Fuck";
+"Attach.PictureOrVideo" = "Fuck";
+
+
+
+"Preferences" = "Fuck";
+
+"Registration" = "Fuck";
+
+
+"Settings.ResyncDescription" = "Fuck";
+
+"Account.UpdateProfilePhoto" = "Fuck";
+
+
+
+
+
+
+"Profile.Save" = "Fuck";
+
+
+"MediaPreview.SaveItem" = "Fuck";
+"MediaPreview.SaveToDownloads" = "Fuck";
+"MediaPreview.NextItem" = "Fuck";
+"MediaPreview.PreviousItem" = "Fuck";
+
+
+"Search" = "Fuck";
+
+
+
+
+"Notification.SecretMessage" = "Fuck";
+
+
+
+"Settings" = "Fuck";
+
+
+
+
+
+"Conversation.ShowProfile" = "Fuck";
+"Conversation.ShowGroupInfo" = "Fuck";
+"Conversation.StartSecretChat" = "Fuck";
+"Conversation.CantForwardSecretMessages" = "Fuck";
+"Conversation.CantShareContactToSecretChat" = "Fuck";
+"Conversation.Confirm.ClearHistory" = "Fuck";
+"Conversation.Confirm.LeaveAndClear" = "Fuck";
+"Conversation.Confirm.DeleteAndClear" = "Fuck";
+"Conversation.Confirm.UndoneAction" = "Fuck";
+"Conversation.Confirm.SendFromClipboard" = "Fuck";
+"Conversation.Confirm.SendThisFile" = "Fuck";
+"Conversation.Confirm.SendThisPicture" = "Fuck";
+"Conversation.Confirm.SendThisVideo" = "Fuck";
+"Conversation.Confirm.SendThisFileDescription" = "Fuck";
+"Conversation.Confirm.SendThisPictureDescription" = "Fuck";
+"Conversation.Confirm.SendThisVideoDescription" = "Fuck";
+"Conversation.Confirm.SendThisPicturesDescription" = "Fuck";
+"Conversation.Action.YouKickedGroup" = "Fuck";
+"Conversation.Action.YouLeftGroup" = "Fuck";
+"Conversation.Actions.ReturnToGroup" = "Fuck";
+"Conversation.Actions.LeaveGroup" = "Fuck";
+"Conversation.Members" = "Fuck";
+"Conversation.Member" = "Fuck";
+"Conversation.DeleteSecretChat" = "Fuck";
+"Conversation.ShowEncryptionKey" = "Fuck";
+"Conversation.Delete" = "Fuck";
+"Conversation.Back" = "Fuck";
+"Conversation.BackToInfo" = "Fuck";
+"Conversation.DropTitle" = "Fuck";
+"Conversation.DropQuickDescription" = "Fuck";
+"Conversation.ScrollToBottom" = "Fuck";
+"Conversation.DropAsFilesDescription" = "Fuck";
+"Conversation.Send.FilesSizeError" = "Fuck";
+"Conversation.NoMessages" = "Fuck";
+"Conversation.Mute" = "Fuck";
+"Conversation.Unmute" = "Fuck";
+"Conversation.OpenConversation" = "Fuck";
+"Conversation.Filter.Photos" = "Fuck";
+"Conversation.Filter.Video" = "Fuck";
+"Conversation.Filter.Files" = "Fuck";
+"Conversation.Filter.Audio" = "Fuck";
+"Conversation.Filter.PhotoVideo" = "Fuck";
+"Conversation.ShowMedia" = "Fuck";
+"Conversation.SelectToForward" = "Fuck";
+"Conversation.SelectToForwards" = "Fuck";
+"Conversation.SelectToShareContact" = "Fuck";
+"Conversation.ClearMessageHistory" = "Fuck";
+"Conversation.CopyToClipboard" = "Fuck";
+"Conversation.DeleteAndExit" = "Fuck";
+"Conversation.CopyURL" = "Fuck";
+"Conversation.Menu.SetSelfDestruct" = "Fuck";
+"Conversation.SelectConversation" = "Fuck";
+
+
+"Profile.MobilePhone" = "Fuck";
+"Profile.SharedMedia" = "Fuck";
+"Profile.SendMessage" = "Fuck";
+"Profile.ShareContact" = "Fuck";
+"Profile.Edit" = "Fuck";
+"Profile.edit" = "Fuck";
+"Profile.Save" = "Fuck";
+"Profile.DeleteAndExit" = "Fuck";
+"Profile.DeleteContact" = "Fuck";
+"Profile.CreatedBy" = "Fuck";
+"Profile.You" = "Fuck";
+"Profile.Error.CantUpdatePhoto" = "Fuck";
+"Profile.Cancel" = "Fuck";
+"Profile.CancelPhotoUpload" = "Fuck";
+"Profile.CantUpdate" = "Fuck";
+"Profile.CantUpdatePhoto" = "Fuck";
+"Profile.Back" = "Fuck";
+"Profile.ClearHistory" = "Fuck";
+"Profile.DeleteConversation" = "Fuck";
+"Profile.Done" = "Fuck";
+"BackToProfile" = "Fuck";
+"Profile.RemovePhoto" = "Fuck";
+"Profile.UpdatePhoto" = "Fuck";
+"Profile.SetGroupPhoto" = "Fuck";
+"Profile.SmallPhoto" = "Fuck";
+
+
+
+
+
+
+"Telegram Messenger" = "Fuck";
+
+
+"Time.at" = "Fuck";
+"Time.last_seen" = "Fuck";
+"Time.today" = "Fuck";
+"Time.tomorrow" = "Fuck";
+"Time.yesterday" = "Fuck";
+
+
+"App.updating" = "Fuck";
+
+
+
+"Attach.WebSearch" = "Fuck";
+
+"Weekday.Friday" = "Fuck";
+
+"Weekday.Monday" = "Fuck";
+
+"Weekday.Saturday" = "Fuck";
+
+"Weekday.ShortFriday" = "Fuck";
+
+"Weekday.ShortMonday" = "Fuck";
+
+"Weekday.ShortSaturday" = "Fuck";
+
+"Weekday.ShortSunday" = "Fuck";
+
+"Weekday.ShortThursday" = "Fuck";
+
+"Weekday.ShortTuesday" = "Fuck";
+
+"Weekday.ShortWednesday" = "Fuck";
+
+"Weekday.Sunday" = "Fuck";
+
+"Weekday.Thursday" = "Fuck";
+
+"Weekday.Tuesday" = "Fuck";
+
+"Weekday.Wednesday" = "Fuck";
+
+"WiFi" = "Fuck";
+
+
+
+
+
+
+
+
+"Notification.MessageLifetime2s" = "Fuck";
+"Notification.MessageLifetime5s" = "Fuck";
+"Notification.MessageLifetime1m" = "Fuck";
+"Notification.MessageLifetime1h" = "Fuck";
+"Notification.MessageLifetime1d" = "Fuck";
+"Notification.MessageLifetime1w" = "Fuck";
+
+"DefaultSoundName" = "Fuck";
+
+"Date.DialogDateFormat" = "Fuck";
+
+
+"Confirm.TerminateSessions" = "Fuck";
+"Confirm.SuccessResetSessions" = "Fuck";
+"Confirm.ConfirmLogout" = "Fuck";
+"Confirm.ClearHistory" = "Fuck";
+"Alert.Error" = "Fuck";
+"Alert.Confirm" = "Fuck";
+
+
+"AddContact.FirstNamePlaceholder" = "Fuck";
+"AddContact.LastNamePlaceholder" = "Fuck";
+"AddContact.PhoneNumberPlaceholder" = "Fuck";
+"AddContact.AddContact" = "Fuck";
+
+"AddContact.NotRegistredTitle" = "Fuck";
+"AddContact.NotRegistredDescription" = "Fuck";
+
+"Messages.AddContact" = "Fuck";
+
+"Time.agoHour" = "Fuck";
+"Time.agoHours" = "Fuck";
+"Time.agoMinute" = "Fuck";
+"Time.agoMinutes" = "Fuck";
+"Time.justnow" = "Fuck";
+
+"Secret.SelfDestruct.Off" = "Fuck";
+"Secret.SelfDestruct.2s" = "Fuck";
+"Secret.SelfDestruct.5s" = "Fuck";
+"Secret.SelfDestruct.1m" = "Fuck";
+"Secret.SelfDestruct.1h" = "Fuck";
+"Secret.SelfDestruct.1d" = "Fuck";
+"Secret.SelfDestruct.1w" = "Fuck";
+
+"Message.File.ShowInFinder" = "Fuck";
+
+"Delete" = "Fuck";
+
+"Edit.selectMessage" = "Fuck";
+"Edit.selectMessages" = "Fuck";
+
+"Photo" = "Fuck";
+
+
+
+"Settings.OpenLinksBackground" = "Fuck";
+"Settings.PrivateChats" = "Fuck";
+"Settings.Groups" = "Fuck";
+
+
+"Settings.OpenLinksBackground" = "Fuck";
+
+"Settings.SendAsEnter" = "Fuck";
+"Settings.SendAsCmdEnter" = "Fuck";
+
+"Settings.OnlineFocused" = "Fuck";
+"Settings.OnlineLaunch" = "Fuck";
+
+"Settings.SoundEffects" = "Fuck";
+
+"Settings.online_when_desc" = "Fuck";
+"Settings.auto_download_desc" = "Fuck";
+"Settings.video_desc" = "Fuck";
+"Settings.documents_desc" = "Fuck";
+"Settings.voice_messages_desc" = "Fuck";
+"Settings.file_size_limit_desc" = "Fuck";
+"Settings.send_message_desc" = "Fuck";
+"Settings.save_documents_to_desc" = "Fuck";
+"Settings.sound_notifications_desc" = "Fuck";
+"Settings.other_desc" = "Fuck";
+
+"Settings.cache_desc" = "Fuck";
+"Settings.sessions_desc" = "Fuck";
+"Settings.cache_sub_desc" = "Fuck";
+"Settings.sessions_sub_desc" = "Fuck";
+"Settings.account_desc" = "Fuck";
+
+"Settings.clear_all_the_cache_button" = "Fuck";
+"Settings.terminate_all_other_sessions_button" = "Fuck";
+"Settings.log_out_button" = "Fuck";
+
+"Settings.Settings" = "Fuck";
+"Settings.BlackList" = "Fuck";
+
+
+"Confirm" = "Fuck";
+"Yes" = "Fuck";
+"No" = "Fuck";
+"Cancel" = "Fuck";
+
+"Settings.General" = "Fuck";
+"Settings.Account" = "Fuck";
+
+"MessageAction.Secret.UserJoined" = "Fuck";
+"MessageAction.Secret.CreatedSecretChat" = "Fuck";
+
+"Secret.join.description" = "Fuck";
+"Secret.join.invitedDescription" = "Fuck";
+"Secret.join.secret_chats" = "Fuck";
+"Secret.join.desc1" = "Fuck";
+"Secret.join.desc2" = "Fuck";
+"Secret.join.desc3" = "Fuck";
+"Secret.join.desc4" = "Fuck";
+
+
+"Settings.chooseFolder" = "Fuck";
+
+
+"Login.code" = "Fuck";
+"Login.willCallYou" = "Fuck";
+"Login.phoneNumber" = "Fuck";
+
+"Audio.Downloading" = "Fuck";
+"Audio.Uploading" = "Fuck";
+
+"Document.Downloading" = "Fuck";
+"Document.Uploading" = "Fuck";
+
+"MessageService.Action.JoinedSecretChat" = "Fuck";
+
+"Attach.Location" = "Fuck";
+"Attach.PictureOrVideo" = "Fuck";
+
+"Audio.ReleaseOut" = "Fuck";
+"Messages.scrollToBottomNewMessage" = "Fuck";
+"Messages.scrollToBottomNewMessages" = "Fuck";
+
+"Emoji.NoRecents" = "Fuck";
+
+"Profile.SetEncryptedTTL" = "Fuck";
+"Profile.ShowEncryptedKey" = "Fuck";
+
+"Search.LoadingMessages" = "Fuck";
+"Messages.ForwardedMessages" = "Fuck";
+
+"Messages.Error.Delete" = "Fuck";
+"Messages.Error.Resend" = "Fuck";
+
+"Notification.NewAuthDetected" = "Fuck";
+
+
+"Alert.MessagesSendError.Desc" = "Fuck";
+"Alert.MessagesSendError.Text" = "Fuck";
+"Alert.Button.TryAgain" = "Fuck";
+"Alert.Button.Delete" = "Fuck";
+"Alert.Button.Ignore" = "Fuck";
+
+"Messages.MessagesTopInfoActionUnblockUser" = "Fuck";
+"Messages.MessagesTopInfoActionShareContact" = "Fuck";
+"Messages.MessagesTopInfoActionAddContact" = "Fuck";
+
+"Messages.MessagesTopInfoActionAddContact.Button" = "Fuck";
+"Messages.MessagesTopInfoActionShareContact.Button" = "Fuck";
+"Messages.MessagesTopInfoActionUnblockUser.Button" = "Fuck";
+
+
+
+"Connecting.Connecting" = "Fuck";
+"Connecting.Connected" = "Fuck";
+"Connecting.WaitingNetwork" = "Fuck";
+"Connecting.Updating" = "Fuck";
+"Connecting.Updated" = "Fuck";
+
+"SharedMedia.None" = "Fuck";
+
+"MediaPreview.Forward" = "Fuck";
+"MediaPreview.Delete" = "Fuck";
+
+
+"Broadcast.Create" = "Fuck";
+"Broadcast.statusMore" = "Fuck";
+"Broadcast.participantsTitle" = "Fuck";
+"Broadcast.participantTitle" = "Fuck";
+
+"MessageAction.ServiceMessage.CreatedBroadcast" ="Fuck";
+"Conversation.CantForwardToBroadcast" = "Fuck";
+"NewConversation.CreatingBroadcast" = "Fuck";
+
+"Conversation.ShowBroadcastInfo" = "Fuck";
+
+"Settings.LaunchOnStartup" = "Fuck";
+
+"App.startupAtLaunch" = "Fuck";
+"App.startupAtLaunchDesc" = "Fuck";
+
+"Notification.UserRegistred" = "Fuck";
+
+
+
+"ComposeMenu.CreateGroup" = "Fuck";
+"ComposeMenu.Broadcast" = "Fuck";
+"ComposeMenu.SecretChat" = "Fuck";
+
+"Compose.GroupTitle" = "Fuck";
+"Compose.SecretChat" = "Fuck";
+"Compose.BroadcastTitle" = "Fuck";
+
+
+"Compose.Back" = "Fuck";
+"Compose.Next" = "Fuck";
+"Compose.Done" = "Fuck";
+"Compose.Create" = "Fuck";
+
+"Compose.Contacts" = "Fuck";
+"Compose.AddMembers" = "Fuck";
+
+"Compose.GroupNamePlaceHolder" = "Fuck";
+"Compose.NewBroadcastList" = "Fuck";
+
+
+"Account.EditProfile" = "Fuck";
+
+"Account.ChatSettings" = "Fuck";
+"Account.BlockedUsers" = "Fuck";
+"Account.SecuritySettings" = "Fuck";
+
+
+
+"Tab.Contacts" = "Fuck";
+"Tab.Chats" = "Fuck";
+"Tab.Settings" = "Fuck";
+
+
+"Auth.ForceLogout" = "Fuck";
+"Account.ExportCard" = "Fuck";
+"UserCard.Export" = "Fuck";
+"CardImport.ErrorTextUserNotExist" = "Fuck";
+"CardImport.ErrorDescUserNotExist" = "Fuck";
+
+"Login.EnterCodeFromApp" = "Fuck";
+"Login.SendSmsIfNotReceivedAppCode" = "Fuck";
+
+"UserCard.ExportDesc" = "Fuck";
+
+"Login.WeSendSms" = "Fuck";
+
+
+
+"Search.Cancel" = "Fuck";
+
+"Context.Quote" = "Fuck";
+
+
+"Conversation.Confirm.SendThisGif" = "Fuck";
+"Conversation.Confirm.SendThisGifDescription" = "Fuck";
+
+
+
+
+
+"BlockedUsers.NoBlockedUsers" = "Fuck";
+"BlockedUsers.BlockedUsers" = "Fuck";
+"Compose.BlockUsers" = "Fuck";
+"GeneralSettings.AutoVideoDownloadHeader" = "Fuck";
+"GeneralSettings.AutoAudioDownloadHeader" = "Fuck";
+"Settings.SoundNotification" = "Fuck";
+"GeneralSettings.General" = "Fuck";
+"Settings.AdvancedSettings" = "Fuck";
+"Settings.SecuritySettings" = "Fuck";
+"GeneralSettings.Security" = "Fuck";
+"Settings.ClearCache" = "Fuck";
+"Settings.ClearCacheDescription" = "Fuck";
+"Settings.TerminateOtherSessions" = "Fuck";
+"Settings.TerminateOtherSessionsDescription" = "Fuck";
+"Account.SetProfilePhoto" = "Fuck";
+"Account.General" = "Fuck";
+"Account.UserName" = "Fuck";
+"Account.About" = "Fuck";
+"Account.FAQ" = "Fuck";
+"Account.AskQuestion" = "Fuck";
+"Profile.BlockContact" = "Fuck";
+"Profile.UnblockContact" = "Fuck";
+"Chat.Kick" = "Fuck";
+"Profile.Info" = "Fuck";
+"UserName.placeHolder" = "Fuck";
+"Profile.ChangeUserName" = "Fuck";
+"UserName.description" = "Fuck";
+"Username.setName" = "Fuck";
+"Profile.Media" = "Fuck";
+"Profile.DeleteAll" = "Fuck";
+"Profile.DeleteBroadcast" = "Fuck";
+
+"Context.OpenInFinder" = "Fuck";
+"Context.SaveAs" = "Fuck";
+"Context.CopyToClipBoard" = "Fuck";
+"Context.Forward" = "Fuck";
+"Context.Delete" = "Fuck";
+
+"UpdateNotification.Alert" = "Fuck";
+"Profile.username" = "Fuck";
+"Search.Separator.GlobalSearch" = "Fuck";
+
+"UserNameExport.UserNameNotFound" = "Fuck";
+"UserNameExport.UserNameNotFoundDescription" = "Fuck";
+
+"AddContactController.Addcontact" = "Fuck";
+
+"UserName.avaiable" = "Fuck";
+
+"USERNAME_INVALID" = "Fuck";
+"USERNAME_IS_ALREADY_TAKEN" = "Fuck";
+"USERNAME_MIN_SYMBOLS_ERROR" = "Fuck";
+"USERNAME_CANT_FIRST_NUMBER" = "Fuck";
+
+"Settings.NotificationTone" = "Fuck";
+"Notifications" = "Fuck";
+"Settings.MessageNotifications" = "Fuck";
+
+
+
+"Notification.MessageLifetimeSeconds" = "Fuck";
+"Notification.MessageLifetimeMinutes" = "Fuck";
+"Notification.MessageLifetimeHours" = "Fuck";
+"Notification.MessageLifetimeDays" = "Fuck";
+"Notification.MessageLifetimeWeeks" = "Fuck";
+"Secret.SelfDestruct.RandomSecond" = "Fuck";
+"Secret.SelfDestruct.RandomSeconds" = "Fuck";
+"Close" = "Fuck";
+"MediaPreview.GoToMessage" = "Fuck";
+
+"PhotoViewer.Forward" = "Fuck";
+"PhotoViewer.Delete" = "Fuck";
+"PhotoViewer.SaveAs" = "Fuck";
+"PhotoViewer.Goto" = "Fuck";
+"PhotoViewer.posOfCount" = "Fuck";
+"Settings.EmojiReplaces" = "Fuck";
+
+"PrivacyAndSecurity.PrivacyHeader" = "Fuck";
+"PrivacyAndSecurity.SecurityHeader" = "Fuck";
+"PrivacyAndSecurity.DeleteAccountHeader" = "Fuck";
+
+"PrivacyAndSecurity.BlockedUsers" = "Fuck";
+"PrivacyAndSecurity.LastSeen" = "Fuck";
+"PrivacyAndSecurity.TerminateSessions" = "Fuck";
+"PrivacyAndSecurity.Logout" = "Fuck";
+"PrivacyAndSecurity.DeleteAccount" = "Fuck";
+
+"LastSeen.longTimeAgo" = "Fuck";
+"LastSeen.Recently" = "Fuck";
+"LastSeen.Monthly" = "Fuck";
+"LastSeen.Weekly" = "Fuck";
+"PrivacyAndSecurity.Header" = "Fuck";
+"PrivacySettingsController.Header" = "Fuck";
+"PrivacySettingsController.Everbody" = "Fuck";
+"PrivacySettingsController.MyContacts" = "Fuck";
+"PrivacySettingsController.Nobody" = "Fuck";
+"PrivacySettingsController.NeverShare" = "Fuck";
+"PrivacySettingsController.AlwaysShare" = "Fuck";
+"PrivacySettingsController.NeverShareWith" = "Fuck";
+"PrivacySettingsController.AlwaysShareWith" = "Fuck";
+"PrivacySettingsController.UserCount" = "Fuck";
+"PrivacySettingsController.UsersCount" = "Fuck";
+"PrivacySettingsController.AddUsers" = "Fuck";
+"PrivacyUserListController.NoUsers" = "Fuck";
+"Remove" = "Fuck";
+"Account.Privacy" = "Fuck";
+"PhotoViewer.CopyToClipboard" = "Fuck";
+"PrivacyUserListController.Header" = "Fuck";
+"PhoneChangeAlertController.Description" = "Fuck";
+"PhoneChangeAlertController.ChangePhone" = "Fuck";
+"PhoneChangeController.Header" = "Fuck";
+"PhoneChangeController.Next" = "Fuck";
+"PhoneChangeController.Description" = "Fuck";
+"Account.PhoneNumber" = "Fuck";
+"PhoneChangeControlller.AlertHeader" = "Fuck";
+"PHONE_NUMBER_OCCUPIED"	= "Fuck";
+"PHONE_NUMBER_INVALID" = "Fuck";
+"PhoneChangeController.SmsPlaceholder" = "Fuck";
+"PhoneChangeConfirmController.SentCodeDescription" = "Fuck";
+"PhoneChangeConfirmController.sendCall" = "Fuck";
+"PhoneChangeConfirmController.phoneDialed" = "Fuck";
+
+"Alert.Forward" = "Fuck";
+"Alert.ForwardTo" = "Fuck";
+
+"TL_sendMessageTypingAction" = "Fuck";
+"TL_sendMessageUploadPhotoAction" = "Fuck";
+"TL_sendMessageRecordVideoAction" = "Fuck";
+"TL_sendMessageUploadVideoAction" = "Fuck";
+"TL_sendMessageRecordAudioAction" = "Fuck";
+"TL_sendMessageUploadAudioAction" = "Fuck";
+"TL_sendMessageUploadDocumentAction" = "Fuck";
+"TL_sendMessageGeoLocationAction" = "Fuck";
+"TL_sendMessageChooseContactAction" = "Fuck";
+
+"Settings.iCloudSynch" = "Fuck";
+"Profile.Photos" = "Fuck";
+"Settings.BigFont" = "Fuck";
+"Quit" = "Fuck";
+"Settings.StatusBarIcon" = "Fuck";
+
+"PHONE_CODE_INVALID" = "Fuck";
+"Password.password" = "Fuck";
+"Password.EnterYourPassword" = "Fuck";
+"Password.ResetPassword" = "Fuck";
+"Password.logout" = "Fuck";
+"Password.resetAlert" = "Fuck";
+"Password.confirm" = "Fuck";
+"PASSWORD_HASH_INVALID" = "Fuck";
+
+
+"AccountDaysTTL30" = "Fuck";
+"AccountDaysTTL90" = "Fuck";
+"AccountDaysTTL182" = "Fuck";
+"AccountDaysTTL365" = "Fuck";
+
+"Profile.SharedMediaFiles" = "Fuck";
+
+"SharedMedia.NoSharedMedia" = "Fuck";
+"SharedMedia.NoFiles" = "Fuck";
+
+"Notification.EnableInDays" = "Fuck";
+"Notification.EnableInHours" = "Fuck";
+"Notification.EnableInMinutes" = "Fuck";
+"Notification.EnableInSeconds" = "Fuck";
+
+"Notification.EnableInDay" = "Fuck";
+"Notification.EnableInHour" = "Fuck";
+"Notification.EnableInMinute" = "Fuck";
+"Notification.EnableInSecond" = "Fuck";
+
+"Notification.Enabled" = "Fuck";
+"Notification.Disabled" = "Fuck";
+
+"Notifications.Menu.Enable" = "Fuck";
+"Notifications.Menu.Mute1Hour" = "Fuck";
+"Notifications.Menu.Mute8Hours" = "Fuck";
+"Notifications.Menu.Mute2Days" = "Fuck";
+"Notifications.Menu.Disable" = "Fuck";
+
+"Context.OpenWith" = "Fuck";
+"Context.Other" = "Fuck";
+"Context.Share" = "Fuck";
+
+"PrivacyAndSecurity.PassCode" = "Fuck";
+"PasscodeSettings.Header" = "Fuck";
+"PasscodeSettings.TurnOffPasscode" = "Fuck";
+"PasscodeSettings.TurnOnPasscode" = "Fuck";
+"PasscodeSettings.ChangePasscode" = "Fuck";
+"PasscodeSettings.AutoLock" = "Fuck";
+
+"Passcode.EnterYourNewPasscode" = "Fuck";
+"Passcode.EnterYourOldPasscode" = "Fuck";
+"Passcode.ReEnterYourPasscode" = "Fuck";
+"Passcode.EnterYourPasscode" = "Fuck";
+"Passcode.EnterPlaceholder" = "Fuck";
+
+
+"Passcode.AutoLockTime0" = "Fuck";
+"Passcode.AutoLockTime60" = "Fuck";
+"Passcode.AutoLockTime300" = "Fuck";
+"Passcode.AutoLockTime3600" = "Fuck";
+"Passcode.AutoLockTime18000" = "Fuck";
+
+"Alert.Share" = "Fuck";
+"Alert.ShareTo" = "Fuck";
+
+"Context.Reply" = "Fuck";
+"ChatMedia.Sticker" = "Fuck";
+"Context.AddCustomSticker" = "Fuck";
+
+"PrivacyAndSecurity.TwoStepVerification" = "Fuck";
+
+
+
+"PasswordSettings.SetupHintTitle" = "Fuck";
+"PasswordSettings.SetupHint" = "Fuck";
+
+"PasswordSettings.YourPassword" = "Fuck";
+"PasswordSettings.TurnOnPassword" = "Fuck";
+"PasswordSettings.TurnOffPassword" = "Fuck";
+"PasswordSettings.ChangePassword" = "Fuck";
+"PasswordSettings.ChangeRecoveryEmail" = "Fuck";
+"PasswordSettings.SetRecoveryEmail" = "Fuck";
+"PasswordSettings.TurnOnPasswordDescription" = "Fuck";
+"PasswordSettings.SetPassword" = "Fuck";
+"PasswordSettings.Next" = "Fuck";
+"PasswordSettings.ConfirmPassword" = "Fuck";
+"PasswordSettings.RecoveryEmail" = "Fuck";
+"PasswordSettings.RecoveryEmailDesc" = "Fuck";
+"PasswordSettings.Skip" = "Fuck";
+"PasswordSettings.SkipAlert" = "Fuck";
+"PasswordSettings.SkipAlertDescription" = "Fuck";
+
+"PasswordSettings.InputPassword" = "Fuck";
+"PasswordSettings.InputNewPassword" = "Fuck";
+
+"PasswordSettings.AlertConfirmEmail" = "Fuck";
+"PasswordSettings.AlertConfirmEmailDescription" = "Fuck";
+"PasswordSettings.AlertSuccessActivatedDescription" = "Fuck";
+"PasswordSettings.AlertSuccessDeactivatedDescription" = "Fuck";
+"PasswordSettings.AlertSuccessChangedDescription" = "Fuck";
+
+
+
+"EnterPassword.EnterPasswordDescription" = "Fuck";
+"EnterPassword.forgotPassword" = "Fuck";
+"Alert.Sorry" = "Fuck";
+"PASSWORD_RECOVERY_NA" = "Fuck";
+
+
+"EnterPassword.ResetAccount" = "Fuck";
+"EnterPassword.ResetAccountDescription" = "Fuck";
+"Alert.Warning" = "Fuck";
+
+"Password.ResetAlertDescription" = "Fuck";
+
+"Password.SentRecoryCode" = "Fuck";
+
+"EnterPassword.EnterCodeDescription" = "Fuck";
+"EnterPassword.AlertTroubleEmailAccess" = "Fuck";
+"EnterPassword.TroubleEmailAccess" = "Fuck";
+"EnterPassword.BadEmailCode" = "Fuck";
+
+"PasswordSettings.AbortPassword" = "Fuck";
+"PasswordSettings.ConfrimEmailDescription" = "Fuck";
+
+"PasswordSettings.AdditionDescription" = "Fuck";
+
+"Authorization.Authorizations" = "Fuck";
+"Authorization.Official" = "Fuck";
+"Authorization.Unofficial" = "Fuck";
+"Authorization.Reset" = "Fuck";
+"Forward.Message" = "Fuck";
+"Forward.Messages" = "Fuck";
+
+
+"PasscodeSettings.TurnOnDescription" = "Fuck";
+
+"AuthSessions.CurrentSession" = "Fuck";
+"AuthSessions.OtherSessions" = "Fuck";
+"AuthSessions.TerminateOtherSessions" = "Fuck";
+
+"Webpage.GettingLinkInfo" = "Fuck";
+
+"Settings.SmartNotifications" = "Fuck";
+
+"Confirm.ConfrimToJoinGroup" = "Fuck";
+"MessageAction.Service.JoinedGroupByLink" = "Fuck";
+
+"Group.CopyExportChatInvite" = "Fuck";
+"ChatExportLink.CopyLink" = "Fuck";
+"ChatExportLink.RevokeLink" = "Fuck";
+"ChatExportLink.RevokeConfirm" = "Fuck";
+"ChatExportLink.Alert.Revoked" = "Fuck";
+"ChatExportLink.Description" = "Fuck";
+
+"AddAttachmentCaption" = "Fuck";
+"USERS_TOO_MUCH" = "Fuck";
+"INVITE_HASH_EMPTY" = "Fuck";
+"INVITE_HASH_INVALID" = "Fuck";
+"INVITE_HASH_EXPIRED" = "Fuck";
+
+
+"PasswordSettings.EnabledDescription" = "Fuck";
+"StickerPack.AddStickerPack" = "Fuck";
+"Settings.Stickers" = "Fuck";
+"Sticker.StickerSettings" = "Fuck";
+"Stickers.StickersCount" = "Fuck";
+"Stickers.StickersPacksHeader" = "Fuck";
+"Stickers.StickersSetDescription" = "Fuck";
+"Context.AddStickers" = "Fuck";
+"Settings.MessageNotificationsAlert" = "Fuck";
+"Settings.MessageNotificationsHeader" = "Fuck";
+"Settings.ChatSettingsHeader" = "Fuck";
+"Context.CopyLink" = "Fuck";
+"Stickers.RemoveStickerAlert" = "Fuck";
+"PhoneChange.PhoneOccupied" = "Fuck";
+
+"NoAudioDescription" = "Fuck";
+"LastSeen.Bot" = "Fuck";
+"Profile.botInfo" = "Fuck";
+"Bot.WhatBotCanDo" = "Fuck";
+
+"Bot.onlySeenMessagesWithSlash" = "Fuck";
+"Bot.botCanReadAllMessages" = "Fuck";
+
+"Profile.ShareBot" = "Fuck";
+"Bot.Start" = "Fuck";
+"Bot.confirmAddBot" = "Fuck";
+"Bot.AlreadyInGroup" = "Fuck";
+"Profile.AddToGroup" = "Fuck";
+"Compose.ChooseGroup" = "Fuck";
+"Bot.Help" = "Fuck";
+"RestartBot" = "Fuck";
+"StopBot" = "Fuck";
+"Conversation.Filter.SharedLinks" = "Fuck";
+"Settings.Cache" = "Fuck";
+"Cache.Photos" = "Fuck";
+"Cache.Videos" = "Fuck";
+"Cache.AllCache" = "Fuck";
+"Cache.ClearAllCache" = "Fuck";
+"Cache.ClearVideoCache" = "Fuck";
+"Cache.ClearPhotoCache" = "Fuck";
+"Cache.Description" = "Fuck";
+"NotificationSettings.Description" = "Fuck";
+"NotificationSettings.ResetAllNotifications" = "Fuck";
+"NotificationSettings.MessagePreview" = "Fuck";
+"NotificationSettings.Sound" = "Fuck";
+"Notifications" = "Fuck";
+"NotificationSettings.ResetAllNotificationsConfirm" = "Fuck";
+"SharedMedia.NoSharedLinks" = "Fuck";
+"DatabaseOptimizing" = "Fuck";
+"Settings.AdvancedSettingsHeader" = "Fuck";
+
+
+"Compose.NewChannel" = "Fuck";
+"Compose.Members" = "Fuck";
+"Compose.ChannelTitlePlaceholder" = "Fuck";
+"Compose.ChannelAboutPlaceholder" = "Fuck";
+"Compose.ChannelAboutDescription" = "Fuck";
+"Channel.Discussion" = "Fuck";
+"Channel.DiscussionEnableDescription" = "Fuck";
+
+"Compose.ChangeChannelLink" = "Fuck";
+"Channel.SetChannelLinkPlaceholder" = "Fuck";
+"Channel.SetChannelLinkDescription" = "Fuck";
+"Channel.Username.LinkHint" = "Fuck";
+"Channel.Username.InvalidTooShort" = "Fuck";
+"Channel.Username.InvalidStartsWithNumber" = "Fuck";
+"Channel.Username.InvalidCharacters" = "Fuck";
+"Channel.Username.InvalidTaken" = "Fuck";
+"Channel.Username.CheckingUsername" = "Fuck";
+"Channel.Username.UsernameIsAvailable" = "Fuck";
+
+
+"Compose.Save" = "Fuck";
+"Compose.Skip" = "Fuck";
+
+"ComposeMenu.CreateChannel" = "Fuck";
+"Profile.EditLink" = "Fuck";
+"Profile.ShareLink" = "Fuck";
+"Profile.EditAbout" = "Fuck";
+"Profile.About" = "Fuck";
+"Profile.LeaveChannel" = "Fuck";
+
+"Profile.SetChannelPhoto" = "Fuck";
+"Profile.OpenChannel" = "Fuck";
+"Conversation.Action.Share" = "Fuck";
+
+"Channel.ShareCopyDescription" = "Fuck";
+
+"Conversation.CantForwardMessagesToThisConversation" = "Fuck";
+"Conversation.Action.JoinToChannel" = "Fuck";
+"MessageAction.Service.ChannelCreated" = "Fuck";
+"Channel.showcomments" = "Fuck";
+"Conversation.ChannelTitle" = "Fuck";
+"Message.Action.Service.ChannelEnableComments" = "Fuck";
+"Message.Action.Service.ChannelDisableComments" = "Fuck";
+
+"Channel.oneComment" = "Fuck";
+"Channel.manyComments" = "Fuck";
+"Channel.AccessHeader" = "Fuck";
+"Channel.AccessDescription" = "Fuck";
+"Profile.EnableComments" = "Fuck";
+"Profile.Managment" = "Fuck";
+"Channel.AddModeratorDescription" = "Fuck";
+
+"Channel.Creator" = "Fuck";
+"Channel.Editor" = "Fuck";
+"Channel.Moderator" = "Fuck";
+"Channel.DismissModeratorConfirm" = "Fuck";
+"Channel.DismissModerator" = "Fuck";
+"Channel.Managment" = "Fuck";
+"Compose.ChannelBlackList" = "Fuck";
+"Profile.ChannelMembers" = "Fuck";
+"Profile.ChannelBlackList" = "Fuck";
+"Channel.DeleteMessageModal" = "Fuck";
+"Channel.BanUserModal" = "Fuck";
+"Channel.ReportSpamModal" = "Fuck";
+"Channel.DeleteAllMessagesModal" = "Fuck";
+"Channel.DeleteMessagesModalHeader" = "Fuck";
+"Compose.Unban" = "Fuck";
+"Channel.AddModerator" = "Fuck";
+"Channel.Members" = "Fuck";
+"Compose.Kick" = "Fuck";
+
+"MessageAction.Service.RemovedChannelPhoto" = "Fuck";
+"MessageAction.Service.ChannelGroupName" = "Fuck";
+"MessageAction.Service.ChangedChannelPhoto" = "Fuck";
+"Conversation.Action.CommentsBlocked" = "Fuck";
+"MessageAction.ServiceMessage.ChangedChannelPhoto" = "Fuck";
+"MessageAction.ServiceMessage.RemovedChannelPhoto" = "Fuck";
+"MessageAction.ServiceMessage.ChangedChannelName" = "Fuck";
+"Channel.MemberCount" = "Fuck";
+"Channel.MembersCount" = "Fuck";
+"USER_NOT_PARTICIPANT" = "Fuck";
+"USER_NOT_MUTUAL_CONTACT" = "Fuck";
+
+"Channel.TypeHeader" = "Fuck";
+"Channel.Public" = "Fuck";
+"Channel.Private" = "Fuck";
+"Channel.ChoiceTypeDescriptionPrivate" = "Fuck";
+"Channel.ChoiceTypeDescriptionPublic" = "Fuck";
+"Channel.NewChannelSettingUpUserNameDescription" = "Fuck";
+"Channel.NewChannelSettingUpJoinLinkDescription" = "Fuck";
+"Conversation.ShowChannelInfo" = "Fuck";
+"Channel.SetPublicUsernameDescription" = "Fuck";
+"CHANNELS_ADMIN_PUBLIC_TOO_MUCH" = "Fuck";
+"Profile.DeleteChannel" = "Fuck";
+"Profile.ExportInviteLink" = "Fuck";
+"Channel.AddEditor" = "Fuck";
+"USER_BLOCKED" = "Fuck";
+"USER_ID_INVALID" = "Fuck";
+"USER_BOT" = "Fuck";
+"USERS_TOO_MUCH" = "Fuck";
+"PEER_FLOOD" = "Fuck";
+"MessageAction.Service.InvitedYouToChannel" = "Fuck";
+"Channel.ChoiceTypeDescriptionPublic" = "Fuck";
+
+"Channel.Username.LinkHint" = "Fuck";
+"Channel.Username.InvalidTooShort" = "Fuck";
+"Channel.Username.InvalidStartsWithNumber" = "Fuck";
+"Channel.Username.InvalidCharacters" = "Fuck";
+"Channel.Username.InvalidTaken" = "Fuck";
+"Channel.Username.CheckingUsername" = "Fuck";
+"Channel.Username.UsernameIsAvailable" = "Fuck";
+"MessageAction.Service.YouChoinedToChannel" = "Fuck";
+"Settings.IncludeMutedUnread" = "Fuck";
+"USER_ALREADY_PARTICIPANT" = "Fuck";
+"Messages.MessagesTopInfoActionReportSpam.Button" = "Fuck";
+"Messages.MessagesTopInfoActionReportSpam.ButtonCancel" = "Fuck";
+"ReportSpam.ConfirmDescription" = "Fuck";
+"Messages.SharingLink" = "Fuck";
+"ShowConversationWithAnotherWindow" = "Fuck";
+"Conversation.Pin" = "Fuck";
+"Conversation.Pinned" = "Fuck";
+"Conversation.Confirm.DeleteChannel" = "Fuck";
+"Conversation.Confirm.DeleteChannelInfo" = "Fuck";
+"LockedChatHead.Description" = "Fuck";
+"Chat.SwitchAdminsDescription" = "Fuck";
+"Chat.SwitchAdminsDescriptionOff" = "Fuck";
+"Chat.SwitchAllAdmins" = "Fuck";
+"Chat.Administrators" = "Fuck";
+"Chat.ToggleUserToAdminConfirm" = "Fuck";
+"Chat.ToggleAdminToUserConfirm" = "Fuck";
+
+
+"Modern.SharedMedia.PhotoOrVideo" = "Fuck";
+"Modern.SharedMedia.PhotosAndVideos" = "Fuck";
+"Modern.SharedMedia.File" = "Fuck";
+"Modern.SharedMedia.Files" = "Fuck";
+"Modern.SharedMedia.Audio" = "Fuck";
+"Modern.SharedMedia.Audios" = "Fuck";
+"Modern.SharedMedia.Link" = "Fuck";
+"Modern.SharedMedia.Links" = "Fuck";
+"Modern.Chat.Members" = "Fuck";
+"Modern.Profile.SetAdmins" = "Fuck";
+"Modern.Chat.UpgrateToMegagroup" = "Fuck";
+"Modern.Chat.UpgradeToMegagroupDescription" = "Fuck";
+"Modern.Channel.InviteViaLink" = "Fuck";
+"Modern.Channel.ChannelMembersDescription" = "Fuck";
+"Compose.Edit" = "Fuck";
+"Compose.Done" = "Fuck";
+"Channel.ChangeAboutDescription" = "Fuck";
+"Channel.ChangeDescriptionPlaceholder" = "Fuck";
+"Alert.somethingIsWrong" = "Fuck";
+"Conversation.Action.ChatDeactivated" = "Fuck";
+"MessageAction.Service.ChannelMigrated" = "Fuck";
+"MessageAction.Service.ChatMigrated" = "Fuck";
+"Conversation.DeleteAndStopBot" = "Fuck";
+
+"Modern.Chat.UpgradeConfirmHeader" = "Fuck";
+"Modern.Chat.UpgradeConfirmDescription" = "Fuck";
+"MessageAction.Service.Invited" = "Fuck";
+"MessageAction.Service.InvitedUsers" = "Fuck";
+"Profile.ReportChannel" = "Fuck";
+"Report.ReportOther" = "Fuck";
+"Report.ReportPorno" = "Fuck";
+"Report.ReportViolence" = "Fuck";
+"Report.ReportSpam" = "Fuck";
+"Report.AlertText" = "Fuck";
+"Report.AlertDescription" = "Fuck";
+"Conversation.GroupTitle" = "Fuck";
+
+"USER_BLOCKED" = "Fuck";
+"USERS_TOO_MUCH" = "Fuck";
+"USER_NOT_MUTUAL_CONTACT" = "Fuck";
+"ADMINS_TOO_MUCH" = "Fuck";
+"BOTS_TOO_MUCH" = "Fuck";
+
+
+"Channel.Comments.Moderator" = "Fuck";
+"Channel.Comments.Editor" = "Fuck";
+"Compose.ChatAboutDescription" = "Fuck";
+"Compose.ChannelEmptyBlackList" = "Fuck";
+"Conversation.Confirm.DeleteSupergroupInfo" = "Fuck";
+"Conversation.Confirm.DeleteGroup" = "Fuck";
+"Group.AddModeratorDescription" = "Fuck";
+
+
+"TL_sendMessageTypingAction_ConversationUser" = "Fuck";
+"TL_sendMessageUploadPhotoAction_ConversationUser" = "Fuck";
+"TL_sendMessageRecordVideoAction_ConversationUser" = "Fuck";
+"TL_sendMessageUploadVideoAction_ConversationUser" = "Fuck";
+"TL_sendMessageRecordAudioAction_ConversationUser" = "Fuck";
+"TL_sendMessageUploadAudioAction_ConversationUser" = "Fuck";
+"TL_sendMessageUploadDocumentAction_ConversationUser" = "Fuck";
+"TL_sendMessageGeoLocationAction_ConversationUser" = "Fuck";
+"TL_sendMessageChooseContactAction_ConversationUser" = "Fuck";
+"ContextBot.Message.Via" = "Fuck";
+"Context.RemoveGif" = "Fuck";
+"Context.AddGif" = "Fuck";
+"Settings.AutoplayGifs" = "Fuck";
+"Reply.Loading" = "Fuck";
+"Context.OpenInQuickLook" = "Fuck";
+"document" = "Fuck";
+
+
+"Secret.InactiveCap" = "Fuck";
+"Conversation.SelectConversationToViewChatInfo" = "Fuck";
+"Audio.QuickRecordRelease" = "Fuck";
+"PrivacyAndSecurity.Groups" = "Fuck";
+"TL_privacyKeyStatusTimestamp" = "Fuck";
+"TL_privacyKeyChatInvite" = "Fuck";
+"SuperGroup.WhocanAddNewMembers" = "Fuck";
+"SuperGroup.InviteSettings.OnlyAdmins" = "Fuck";
+"SuperGroup.InviteSettings.AllMembers" = "Fuck";
+"PRIVACY_FIRST_TL_privacyKeyStatusTimestamp" = "Fuck";
+"PRIVACY_LAST_TL_privacyKeyStatusTimestamp" = "Fuck";
+"PRIVACY_FIRST_TL_privacyKeyChatInvite" = "Fuck";
+"PRIVACY_LAST_TL_privacyKeyChatInvite" = "Fuck";
+"PrivacySettingsController.NeverShare_TL_privacyKeyChatInvite" = "Fuck";
+"PrivacySettingsController.AlwaysShare_TL_privacyKeyChatInvite" = "Fuck";
+"PrivacySettingsController.NeverShare_TL_privacyKeyStatusTimestamp" = "Fuck";
+"PrivacySettingsController.AlwaysShare_TL_privacyKeyStatusTimestamp" = "Fuck";
+"USERS_TOO_FEW" = "Fuck";
+"USER_PRIVACY_RESTRICTED" = "Fuck";
+"groups" = "Fuck";
+"channels" = "Fuck";
+"Channel.SetMegagroupLinkDescription" = "Fuck";
+"MEGAGROUPS_ADMIN_PUBLIC_TOO_MUCH" = "Fuck";
+"Channel.SignMessagesDescription" = "Fuck";
+"Channel.SignMessages" = "Fuck";
+"Conversation.Action.CopyShareLink" = "Fuck";
+"Message.Save" = "Fuck";
+"Context.Edit" = "Fuck";
+"Settings.TripleLayout" = "Fuck";
+"Channel.SilentModeOff" = "Fuck";
+"Channel.SilentModeOn" = "Fuck";
+"Context.Pin" = "Fuck";
+"Context.Unpin" = "Fuck";
+"Channel.admin" = "Fuck";
+"Channel.ConfirmUnpin" = "Fuck";
+"Channel.ForceConvertChatAbilityDescription" = "Fuck";
+"Channel.ForceConvertChatAbilityNote" = "Fuck";
+"Conversation.ConvertToSuperGroup" = "Fuck";
+"MessageAction.Service.PinMessage" = "Fuck";
+"Pin.Ok" = "Fuck";
+"Pin.OnlyPin" = "Fuck";
+"Pin.PinMessageAndNotifyDesc" = "Fuck";
+"MessageAction.Service.PinnedMessage" = "Fuck";
+"DeletedMessage" = "Fuck";
+"Modern.Channel.GroupType" = "Fuck";
+
+"Group.ChoiceTypeDescriptionPublic" = "Fuck";
+"Group.ChoiceTypeDescriptionPrivate" = "Fuck";
+"Group.PrivateTypeUpJoinLinkDescription" = "Fuck";
+"Group.PublicTypeUpJoinLinkDescription" = "Fuck";
+"Group.TypeHeader" = "Fuck";
+"PinnedHeaderMessage" = "Fuck";
+
+
+"Message.PinnedTextMessage" = "Fuck";
+"Message.PinnedDeletedMessage" = "Fuck";
+"Message.PinnedMediaHeader" = "Fuck";
+
+"ConvertGroupAlertWarning" = "Fuck";
+"ConvertGroupAlert" = "Fuck";
+"FLOOD_WAIT" = "Fuck";
+"Messages.ConfirmDeleteMessage" = "Fuck";
+"Messages.ConfirmDeleteMessages" = "Fuck";
+"Compose.MaxSelectChatUsers" = "Fuck";
+"Conversation.Action.Join" = "Fuck";
+
+"Profile.bio" = "Fuck";
+"Conversation.Delete.ConfirmLeaveSupergroup" = "Fuck";
+"Conversation.Delete.ConfirmLeaveChannel" = "Fuck";
+
+"Confirm.ConfrimToJoinChannel" = "Fuck";
+"Confirm.ConfrimToJoinSupergroup" = "Fuck";
+
+"Confirm.ReturnToGroup" = "Fuck";
+"Confirm.LeaveFromGroup" = "Fuck";
+
+"Confirm.Header.kPermissionInlineBotContact" = "Fuck";
+"Confirm.Header.kPermissionInlineBotGeo" = "Fuck";
+"Confirm.Header.kPermissionInlineBotLocationRequest" = "Fuck";
+
+"Confirm.Desc.kPermissionInlineBotContact" = "Fuck";
+"Confirm.Desc.kPermissionInlineBotGeo" = "Fuck";
+"Confirm.Desc.kPermissionInlineBotLocationRequest" = "Fuck";
+
+
+"LocationService.UndefinedError" = "Fuck";
+"Alert.MoreInfo" = "Fuck";
+"PEER_FLOOD_MESSAGES" = "Fuck";
+"LocationService.WifiDisabledError" = "Fuck";
+"Link.ConfirmOpenExternalLink" = "Fuck";
+"Message.Action.ShareInlineSwitch" = "Fuck";
+"Conversation.ShareInlineSwitchResult" = "Fuck";
+"Settings.HandleMediaKeys" = "Fuck";
+
+"Emoji.Recent" = "Fuck";
+"Emoji.People" = "Fuck";
+"Emoji.Nature" = "Fuck";
+"Emoji.Food" = "Fuck";
+"Emoji.TravelAndPlaces" = "Fuck";
+"Emoji.Symbols" = "Fuck";
+"EGS.Emoji" = "Fuck";
+"EGS.GifsAndStickers" = "Fuck";
+"Stickers.Recent" = "Fuck";
+"Gifs.SavedGifs" = "Fuck";
+"TL_topPeerCategoryCorrespondents" = "Fuck";
+"TL_topPeerCategoryGroups" = "Fuck";
+"TL_topPeerCategoryBotsPM" = "Fuck";
+"Recent.Recent" = "Fuck";
+"Recent.More" = "Fuck";
+"Recent.Less" = "Fuck";
+"EditHeaderMessage" = "Fuck";
+"PasscodeSettings.TurnOffDescription" = "Fuck";
+"Settings.ESGLayoutSetting" = "Fuck";
+"Message.Edited" = "Fuck";
+"Settings.CheckMarkedInputText" = "Fuck";
+"EditMessage.EditErrorAlert" = "Fuck";
+"Context.Select" = "Fuck";
+"Conversation.Draft" = "Fuck";
+"Account.ServiceNotifications" = "Fuck";
+"Media.AddCaptionPlaceholder" = "Fuck";
+"SendMedia.SendAsCompressed" = "Fuck";
+"Stickers.Featured" = "Fuck";
+"Stickers.AddFeatured" = "Fuck";
+"Stickers.ArtistDesc" = "Fuck";
+"Passcode.forceLogout" = "Fuck";
+
+
+"Emoji.SmilesAndPeople" = "Fuck";
+"Emoji.AnimalsAndNature" = "Fuck";
+"Emoji.FoodAndDrink" = "Fuck";
+"Emoji.ActivityAndSport" = "Fuck";
+"Emoji.TravelAndPlaces" = "Fuck";
+"Emoji.Objects" = "Fuck";
+"Emoji.Symbols" = "Fuck";
+"Emoji.Flags" = "Fuck";
+"ChatInvite.MultiChatDesc" = "Fuck";
+"ChatInvite.SingleChatDesc" = "Fuck";
+"ChannelInvite.MultiDesc" = "Fuck";
+"ChannelInvite.SingleDesc" = "Fuck";
+"Settings.NRegistredUsers" = "Fuck";
+"Message.SendPlaceholder" = "Fuck";
+"Message.SendBroadcast" = "Fuck";
+"Placeholder.EditMessage" = "Fuck";
+"Stickers.WillArchived" = "Fuck";
+"Stickers.Archived" = "Fuck";
+"Stickers.ArchivedDesc" = "Fuck";
+"Stickers.RemoveOrArchive" = "Fuck";
+"Stickers.ArchiveAlert" = "Fuck";
+"Stickers.Remove" = "Fuck";
+"Stickers.Archive" = "Fuck";
+"Account.CancelReset" = "Fuck";
+"Account.Code" = "Fuck";
+"AccountReset.IncorrectCode" = "Fuck";
+"AccountReset.SuccessHeader" = "Fuck";
+"AccountReset.Success" = "Fuck";
+"AccountReset.Error" = "Fuck";
+"2FA_RECENT_CONFIRM" = "Fuck";
+"Account.CancelResetDesc" = "Fuck";
+
+"Timer.DaysDate" = "Fuck";
+"Timer.DayDate" = "Fuck";
+"Timer.HoursDate" = "Fuck";
+"Timer.HourDate" = "Fuck";
+"Timer.MinutesDate" = "Fuck";
+"Timer.MinuteDate" = "Fuck";
+"Timer.SecondsDate" = "Fuck";
+"Timer.SecondDate" = "Fuck";
+"ChatWithYourSelf" = "Fuck";
+"YourCloudStorage" = "Fuck";
+"YourCloudStorageDesc" = "Fuck";
+"Alert.RevokeLink" = "Fuck";
+"Alert.RevokeLinkInfo" = "Fuck";
+"Modal.Done" = "Fuck";
+"AddContact.NewContact" = "Fuck";
+"Message.SendSilentBroadcast" = "Fuck";
