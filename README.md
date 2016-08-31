@@ -40,3 +40,9 @@ the telegram language pack we all need
 1. start a convo with [@TGlanguagesbot](telegram.me/TGlanguagesbot)
 2. send a message to it with either `/langios LANG_CODE`, `/langdroid LANG_CODE`, `/langdesk LANG_CODE`, or `/langosx LANG_CODE` depending on what platform you're on and where LANG_CODE is your language code (e.g. English = en)
 3. follow the same steps ad you did to install telegram-fk-lang, just with the file you received from the bot
+
+# REMOVAL FOR TDESKTOP
+1. click the first "Fuck" at the top of the screen (settings button)
+2. then click this button
+![tdesktop-screenshot2](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/tdesktop2.png)
+3. and select your language
