@@ -10,7 +10,7 @@ the telegram language pack we all need
 5. tap apply localization
 
 ### screenshot
-![ios-screenshot](https://github.com/wc1202/telegram-fk-lang/raw/master/src/screenshots/ios.png)
+![ios-screenshot](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/ios.png)
 
 ## android (languages\_Android_fk.xml)
 1. download [languages\_Android_fk.xml](https://github.com/wc1202/telegram-fk-lang/raw/master/src/languages_Android_fk.xml)
@@ -21,7 +21,7 @@ the telegram language pack we all need
 6. choose "Fuck" from the list
 
 ### screenshot
-![android-screenshot](https://github.com/wc1202/telegram-fk-lang/raw/master/src/screenshots/android.png)
+![android-screenshot](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/android.png)
 
 ## tdesktop (languages\_tdesktop_fk.strings)
 1. download [languages\_tdesktop_fk.strings](https://github.com/wc1202/telegram-fk-lang/raw/master/src/languages_tdesktop_fk.strings)
@@ -31,7 +31,7 @@ the telegram language pack we all need
 5. click the blue "Fuck" button (ok button, will restart telegram)
 
 ### screenshot
-![tdesktop-screenshot](https://github.com/wc1202/telegram-fk-lang/raw/master/src/screenshots/tdesktop.png)
+![tdesktop-screenshot](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/tdesktop.png)
 
 ## osx (languages\_osx_fk.strings)
 1. idk i haven't even tested it, let me know if it works if you do happen to try and use it
