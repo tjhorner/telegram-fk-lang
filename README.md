@@ -43,11 +43,8 @@ the telegram language pack we all need
 
 # REMOVAL FOR TDESKTOP
 1. click the first "Fuck" at the top of the screen (settings button)
-2. then click this button
+2. then click this button and select your language
 
 ![tdesktop-screenshot2](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/tdesktop2.png)
-
-3. and select your language
-
 
 also that image is supposed to be much smaller but github is dumb
