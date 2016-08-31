@@ -46,4 +46,8 @@ the telegram language pack we all need
 2. then click this button
 
 ![tdesktop-screenshot2](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/tdesktop2.png)
+
 3. and select your language
+
+
+also that image is supposed to be much smaller but github is dumb
