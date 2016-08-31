@@ -37,7 +37,7 @@ the telegram language pack we all need
 1. idk i haven't even tested it, let me know if it works if you do happen to try and use it
 
 # uninstallation
-1. start a convo with [@TGlanguagesbot](telegram.me/TGlanguagesbot)
+1. start a convo with [@TGlanguagesbot](https://telegram.me/TGlanguagesbot)
 2. send a message to it with either `/langios LANG_CODE`, `/langdroid LANG_CODE`, `/langdesk LANG_CODE`, or `/langosx LANG_CODE` depending on what platform you're on and where LANG_CODE is your language code (e.g. English = en)
 3. follow the same steps ad you did to install telegram-fk-lang, just with the file you received from the bot
 
